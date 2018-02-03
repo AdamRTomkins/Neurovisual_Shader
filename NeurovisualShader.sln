@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeurovisualShader.CSharp", "NeurovisualShader.CSharp.csproj", "{090DD3FB-285E-820D-03B3-4F540736C55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeurovisualShader.CSharp.Editor", "NeurovisualShader.CSharp.Editor.csproj", "{D23649C2-57E4-4EA1-29AB-61C8D318B606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090DD3FB-285E-820D-03B3-4F540736C55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090DD3FB-285E-820D-03B3-4F540736C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090DD3FB-285E-820D-03B3-4F540736C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090DD3FB-285E-820D-03B3-4F540736C55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23649C2-57E4-4EA1-29AB-61C8D318B606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23649C2-57E4-4EA1-29AB-61C8D318B606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23649C2-57E4-4EA1-29AB-61C8D318B606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23649C2-57E4-4EA1-29AB-61C8D318B606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
